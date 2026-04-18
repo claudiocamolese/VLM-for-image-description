@@ -1,8 +1,6 @@
-# VLM from Scratch
+# VLM for image description
 
 This repository is a compact image captioning project built to show how a Vision-Language Model can be assembled from simple parts: a pre-trained vision encoder, a trainable projector, and a causal language model. The target task is caption generation on Flickr8k.
-
-In this project, "from scratch" refers to the multimodal wiring, training loop, and inference pipeline. The vision backbone and language model are loaded from pre-trained checkpoints.
 
 ## Qualitative results
 
