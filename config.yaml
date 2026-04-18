@@ -1,0 +1,27 @@
+models:
+  vision_model_name: "google/vit-large-patch16-224"
+  language_model_name: "HuggingFaceTB/SmolLM-360M"
+
+training:
+  batch_size: 128
+  epochs: 100
+  lr: 1e-4
+  eval_freq: 1
+  weight_decay: 0.05
+  max_grad_norm: 1.0
+  early_stopping_patience: 6
+  early_stopping_min_delta: 0.0
+  freeze_language_model: false
+  use_train_augmentation: true
+  max_length: 64
+  num_workers: 0
+  val_split: 0.1
+  test_split: 0.1
+  comet_project_name: "VLM"
+  comet_api: "udiGvywgHQaHC30AylI8hOeyI"
+
+projector:
+  hidden_multiplier: 4
+  num_layers: 3
+  dropout: 0.2
+  use_gated_blocks: true

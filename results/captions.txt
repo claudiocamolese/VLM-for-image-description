@@ -1,0 +1,2400 @@
+test_00000.png
+Generated: This image shows a group of people standing in a park .
+Ground truth: A group of college students walk in nice weather .
+
+test_00001.png
+Generated: This image shows a child in a life jacket riding a surfboard in the ocean .
+Ground truth: A boy with an orange shirt lies on a bodyboard in the surf .
+
+test_00002.png
+Generated: This image shows a dog running through the water .
+Ground truth: A black dog has just jumped into a swimming pool .
+
+test_00003.png
+Generated: This image shows a group of people walking on a path .
+Ground truth: A crowd watching air balloons at night .
+
+test_00004.png
+Generated: This image shows a skier in the air .
+Ground truth: A man is carefully skiing down a snow covered hill wearing a backpack .
+
+test_00005.png
+Generated: This image shows a young girl in a red shirt and blue shorts riding a race car .
+Ground truth: A child in red jumps on a red object while others laugh .
+
+test_00006.png
+Generated: This image shows a dog running in a field .
+Ground truth: A brown and white dog is running with its mouth open .
+
+test_00007.png
+Generated: This image shows a group of people sitting around a table .
+Ground truth: A blonde woman and bald man sitting together .
+
+test_00008.png
+Generated: This image shows a boy in a red shirt playing baseball .
+Ground truth: A boy wearing a blue jacket swings a bat at a white ball .
+
+test_00009.png
+Generated: This image shows a woman in a yellow dress and a man in a black suit .
+Ground truth: An Asian girl is standing in a crowd wearing red lipstick .
+
+test_00010.png
+Generated: This image shows a baby in a pink toy .
+Ground truth: A baby is in an activity chair in a child 's playroom .
+
+test_00011.png
+Generated: This image shows a man standing on a rock overlooking a body of water .
+Ground truth: A long haired man walking away beside a canal whist holding onto a railing .
+
+test_00012.png
+Generated: This image shows a dog with a water hose on its head .
+Ground truth: A brown dog drinks from a water bottle .
+
+test_00013.png
+Generated: This image shows a snowboarder in the air on a snowy mountain .
+Ground truth: A hiker standing high on a bluff overlooking the mountains below .
+
+test_00014.png
+Generated: This image shows a man in a white shirt and tie , with a woman in a black shirt and tie .
+Ground truth: A man in a yellow and yellow shirt puts his arm around a man in a blue shirt .
+
+test_00015.png
+Generated: This image shows a group of people running in the woods .
+Ground truth: A boy and girl are jumping rope together while another girl is holding the rope and turning .
+
+test_00016.png
+Generated: This image shows a group of people standing in front of a building .
+Ground truth: A group of adults gather for a picture in front of a brick house .
+
+test_00017.png
+Generated: This image shows a man in a red shirt and black pants doing a skateboard trick .
+Ground truth: A male teenager rides his skateboard onto a large rock .
+
+test_00018.png
+Generated: This image shows a young man in a blue shirt and blue shorts playing tennis .
+Ground truth: A boy hits a tennis ball on a court .
+
+test_00019.png
+Generated: This image shows a soccer player in red and white , kicking a soccer ball .
+Ground truth: A man in a red soccer uniform getting ready to kick the ball .
+
+test_00020.png
+Generated: This image shows a woman in a red shirt and a man in a blue shirt walking down a busy street .
+Ground truth: A person in a hoodie and red cap holding pizza and root beer advertisements .
+
+test_00021.png
+Generated: This image shows a football player in a uniform with a helmet and shoulder pads .
+Ground truth: There is a college player being tackled in a game .
+
+test_00022.png
+Generated: This image shows a group of people standing in front of a building .
+Ground truth: A woman in pink stands in between two women who are taking pictures of something off camera .
+
+test_00023.png
+Generated: This image shows a girl in a blue shirt and blue jeans playing the guitar .
+Ground truth: A little girl playing the guitar , some flowers to the left .
+
+test_00024.png
+Generated: This image shows a race car racing on a track .
+Ground truth: A car with white smoke trailing behind it on a black topped surface .
+
+test_00025.png
+Generated: This image shows a group of children playing on a beach .
+Ground truth: a man and woman are pretending to be spiritual in front of Japanese temple .
+
+test_00026.png
+Generated: This image shows a baseball player in a uniform with a white helmet and a white shirt .
+Ground truth: A cricket batsman has been bowled out middle stump .
+
+test_00027.png
+Generated: This image shows a dog sitting on a car seat .
+Ground truth: A black and tan dog sleeps in the car .
+
+test_00028.png
+Generated: This image shows a man riding a bike through a forest .
+Ground truth: A man in a yellow outfit racing his bike in the wilderness .
+
+test_00029.png
+Generated: This image shows a man in a helmet and a car with a large ball in the steering wheel .
+Ground truth: A child rolls around in a large tire .
+
+test_00030.png
+Generated: This image shows a person riding a snowboard on a slope .
+Ground truth: A man riding a snow machine topples over .
+
+test_00031.png
+Generated: This image shows a brown and white dog running through the grass .
+Ground truth: A brown dog being chased in a rural area
+
+test_00032.png
+Generated: This image shows a young boy in a black and white shirt and blue shorts , wearing a black and white shirt and blue shorts .
+Ground truth: A boy in an orange shirt grinds a skateboard ramp .
+
+test_00033.png
+Generated: This image shows a man and a dog running through a field .
+Ground truth: A man holds a stick while three dogs watch and jump .
+
+test_00034.png
+Generated: This image shows a dog in the water with a red ball in his mouth .
+Ground truth: Two dogs are running through water carrying a rope and red float in their mouths .
+
+test_00035.png
+Generated: This image shows a woman with a black dog in a harness .
+Ground truth: Two people walk black dogs on leashes over the grass .
+
+test_00036.png
+Generated: This image shows a runner in a red shirt running on a track .
+Ground truth: A man in red shorts runs on a track .
+
+test_00037.png
+Generated: This image shows a group of dogs running in the grass .
+Ground truth: A born dog carries some fruit in his mouth while two other dogs follow him .
+
+test_00038.png
+Generated: This image shows a group of people playing soccer in a field .
+Ground truth: A soccer game at sunset
+
+test_00039.png
+Generated: This image shows a group of people sitting on a park bench .
+Ground truth: Two girls are sitting on a wooden floor in front of a large window .
+
+test_00040.png
+Generated: This image shows a dog running through the grass .
+Ground truth: A man is laying down on grass near trees and a hose .
+
+test_00041.png
+Generated: This image shows a soccer team playing a game .
+Ground truth: A group of men play field hockey .
+
+test_00042.png
+Generated: This image shows a group of people standing in front of a building .
+Ground truth: A crowd is standing in front of a building while holding newspapers and holding flags .
+
+test_00043.png
+Generated: This image shows a bird flying over water .
+Ground truth: a bird lands in the water .
+
+test_00044.png
+Generated: This image shows a boy in a pool .
+Ground truth: A child in a blue shirt and orange swim trunks is underwater .
+
+test_00045.png
+Generated: This image shows a man and a woman in a small office .
+Ground truth: A couple acting like they are swimming in front of a fish cutout door .
+
+test_00046.png
+Generated: This image shows two children in a life jacket on a boat .
+Ground truth: kids in orange life vests on sitting in a black raft
+
+test_00047.png
+Generated: This image shows a group of people in a room with a large image of a person on the wall .
+Ground truth: Three men are sitting inside of a store while the green neon lights flash on them from outside .
+
+test_00048.png
+Generated: This image shows a person in a yellow helmet and sunglasses doing a jump on a bike .
+Ground truth: People are riding on a ride at a theme park or carnival .
+
+test_00049.png
+Generated: This image shows a man in a swimsuit doing a back flip on the beach .
+Ground truth: A boy in red shorts takes a dive while playing ball with another boy on the beach .
+
+test_00050.png
+Generated: This image shows a group of people in a gym .
+Ground truth: A group of Chinese teenage girls walking .
+
+test_00051.png
+Generated: This image shows a boy in a red shirt and a boy in a blue shirt .
+Ground truth: A little boy in red walks and eats a snack while a little boy in green walks behind .
+
+test_00052.png
+Generated: This image shows a young boy in a red shirt and blue pants , holding a stick in the air .
+Ground truth: A boy walks through a dusty rocky yard with a bicycle tire on his shoulder .
+
+test_00053.png
+Generated: This image shows a white dog with a green ball in its mouth .
+Ground truth: A dog rolls on his back in the grass .
+
+test_00054.png
+Generated: This image shows a girl in a red shirt and blue pants climbing a metal ladder .
+Ground truth: A girl climbing on a climbing ledge .
+
+test_00055.png
+Generated: This image shows a man in a white shirt and a woman in a black shirt standing in front of a building .
+Ground truth: a bald man with a tattooed head stands next to a man with a brown t-shirt in front of a transparent awning .
+
+test_00056.png
+Generated: This image shows a child in a blue shirt and a dog in a blue shirt .
+Ground truth: A baseball is being thrown at a volleyball net .
+
+test_00057.png
+Generated: This image shows a young man wearing a black helmet and running on a track .
+Ground truth: A man in bright orange shorts is skateboarding along a course with cones as two people observe in the background .
+
+test_00058.png
+Generated: This image shows a girl in a pink dress and a white ball .
+Ground truth: A little girl in pajamas is jumping on the couch .
+
+test_00059.png
+Generated: This image shows a group of people in a stadium .
+Ground truth: A crowd is standing and cheering at a football game .
+
+test_00060.png
+Generated: This image shows a black dog running with a stick in its mouth .
+Ground truth: A black dog carries a bucket in its mouth .
+
+test_00061.png
+Generated: This image shows a man in a yellow jacket and blue shirt standing next to a large metal structure .
+Ground truth: A person in uniform is standing in front of a toll bridge .
+
+test_00062.png
+Generated: This image shows a man with a red and white shirt and a red and white backpack .
+Ground truth: A closeup of a man that is rock climbing .
+
+test_00063.png
+Generated: This image shows a man and a woman in a kayak on a river .
+Ground truth: A guy catches a wave on his surfboard
+
+test_00064.png
+Generated: This image shows a group of men in a football game .
+Ground truth: A group of men play soccer .
+
+test_00065.png
+Generated: This image shows a black dog running through a field of grass .
+Ground truth: Four black dogs run across the grass .
+
+test_00066.png
+Generated: This image shows a group of dogs running in a field .
+Ground truth: Lambs on a grassy hill .
+
+test_00067.png
+Generated: This image shows a man in a life jacket riding a boat .
+Ground truth: A man steers a speeding jet ski through a turn .
+
+test_00068.png
+Generated: This image shows a person riding a dirt bike down a dirt road .
+Ground truth: A bicycle racer in full helmet speeds through a dim forest .
+
+test_00069.png
+Generated: This image shows a dog in the water .
+Ground truth: a couple dogs in and around a small lake of water near a highway
+
+test_00070.png
+Generated: This image shows a brown and white dog running through the grass .
+Ground truth: A dog carries a stick in its mouth .
+
+test_00071.png
+Generated: This image shows a young boy in a red shirt and a green backpack .
+Ground truth: A boy in a fuzzy goat holds a craw and looks at it .
+
+test_00072.png
+Generated: This image shows a soccer player in the air with a ball .
+Ground truth: A man in a blue shirt is running in a stadium field .
+
+test_00073.png
+Generated: This image shows a man climbing a rock .
+Ground truth: A man with rock climbing equipment is hanging from a vertical , white rock .
+
+test_00074.png
+Generated: This image shows a dog running with a ball in its mouth .
+Ground truth: A brown dog chases another brown dog who has a green ball .
+
+test_00075.png
+Generated: This image shows a dog running through a field .
+Ground truth: A dog is running through a green yard .
+
+test_00076.png
+Generated: This image shows a young boy with a blue shirt and a brown shirt .
+Ground truth: A man in a yellow coat tends a fire , a boy in a parka watches .
+
+test_00077.png
+Generated: This image shows a child wearing a red hat and snow pants .
+Ground truth: A bundled-up toddler in the snow .
+
+test_00078.png
+Generated: This image shows a man in a red helmet and a motorcycle in a race .
+Ground truth: A man in street racer armor is examining the tire of another racer 's motorbike .
+
+test_00079.png
+Generated: This image shows a dog running with a ball in its mouth .
+Ground truth: a brown dog and a white dog are running across a stony hillock .
+
+test_00080.png
+Generated: This image shows a group of people walking on a sidewalk .
+Ground truth: a woman in black walks down the sidewalk .
+
+test_00081.png
+Generated: This image shows a man sitting in a store with a bag of money .
+Ground truth: A man in a hat sits outside near some cardboard boxes .
+
+test_00082.png
+Generated: This image shows a group of people standing in a field .
+Ground truth: A crowd scene in front of mosque .
+
+test_00083.png
+Generated: This image shows an old man in a black coat and hat .
+Ground truth: An elderly gentleman very smartly dressed .
+
+test_00084.png
+Generated: This image shows a group of people standing in a line .
+Ground truth: A girl in a white shirt is looking down at a bunch of people sitting on the ground .
+
+test_00085.png
+Generated: This image shows a young girl with a white head covering .
+Ground truth: A girl is crouching on a skateboard next to a brightly colored wall .
+
+test_00086.png
+Generated: This image shows a child in a classroom .
+Ground truth: A boy and a person off-camera playing a card game .
+
+test_00087.png
+Generated: This image shows a young girl in a blue shirt and blue shorts playing with a yellow ball .
+Ground truth: A girl is about to hit a tennis ball coming from above her with a racket
+
+test_00088.png
+Generated: This image shows a skier in the air on a snowboard .
+Ground truth: A person in a white , black and red coat is skiing down a slope .
+
+test_00089.png
+Generated: This image shows two men sitting on a bench .
+Ground truth: A man and a woman on a bench .
+
+test_00090.png
+Generated: This image shows a white dog running through the grass .
+Ground truth: A dog prepares to catch a thrown object in a field with nearby cars .
+
+test_00091.png
+Generated: This image shows a black dog and a brown dog running through the snow .
+Ground truth: The black and brown dogs play in the snowy field .
+
+test_00092.png
+Generated: This image shows a man in a black shirt and black pants doing a back flip .
+Ground truth: A bearded man with glasses does a toe-touch .
+
+test_00093.png
+Generated: This image shows a man in a white shirt and black pants , holding a gun .
+Ground truth: a bald man in a blue shirt is operating a fiery furnace .
+
+test_00094.png
+Generated: This image shows a group of young boys posing for a picture .
+Ground truth: A group of boys pose for a picture .
+
+test_00095.png
+Generated: This image shows a boy in a black uniform running with a ball .
+Ground truth: girls with baseball gloves walking across a baseball field
+
+test_00096.png
+Generated: This image shows a group of people skiing in the mountains .
+Ground truth: A group is sitting around a snowy crevasse .
+
+test_00097.png
+Generated: This image shows a young boy in a swimming pool .
+Ground truth: A boy in a black swimsuit playing near the water .
+
+test_00098.png
+Generated: This image shows a white dog with a brown and white dog in the background .
+Ground truth: A fluffy white and brown puppy is playing with a white , curly haired puppy .
+
+test_00099.png
+Generated: This image shows a soccer player in a red uniform running with a ball .
+Ground truth: a man in a blue uniform kicking the soccer ball down the field
+
+test_00100.png
+Generated: This image shows a boy in a blue shirt and shorts standing on a rock .
+Ground truth: A naked woman is taking a dip in an isolated rocky pool .
+
+test_00101.png
+Generated: This image shows a man in a black jacket and black pants performing a skateboard trick on a street .
+Ground truth: A person is on a ramp on a skateboard .
+
+test_00102.png
+Generated: This image shows a dog running in a race .
+Ground truth: A black dog is completely off the ground while in a race .
+
+test_00103.png
+Generated: This image shows a tennis player in a white shirt and black shorts .
+Ground truth: A male tennis player standing on a tennis court swings his tennis racket at the tennis ball .
+
+test_00104.png
+Generated: This image shows a man in a black shirt and black pants , standing on a black and white wall .
+Ground truth: A child performs skateboard tricks on a wooden platform .
+
+test_00105.png
+Generated: This image shows a basketball player in a uniform with a blue shirt and a white shirt .
+Ground truth: A basketball player wearing an orange uniform looks backwards .
+
+test_00106.png
+Generated: This image shows a girl in a pink dress and a boy in a blue shirt .
+Ground truth: A group of little girls jumping together in a backyard .
+
+test_00107.png
+Generated: This image shows a girl doing a skateboard trick on a ramp .
+Ground truth: A girl in a pink tank top is sliding on a ledge on a skateboard .
+
+test_00108.png
+Generated: This image shows a group of people walking down a street .
+Ground truth: A busy street of people and two men are wearing no shirts .
+
+test_00109.png
+Generated: This image shows a person wearing a swim cap and a swim cap .
+Ground truth: A girl is being splashed by water in a pool .
+
+test_00110.png
+Generated: This image shows a dog running through the snow .
+Ground truth: A dog is running through the snow .
+
+test_00111.png
+Generated: This image shows a dog running through an orange and black tire .
+Ground truth: A black dog running through a long orange tunnel .
+
+test_00112.png
+Generated: This image shows a dog running through a field .
+Ground truth: A brown dog is running across the grass with a stick in its mouth .
+
+test_00113.png
+Generated: This image shows a woman in a white coat standing in front of a building .
+Ground truth: A man stands with her arms folded outside a travel agency .
+
+test_00114.png
+Generated: This image shows two girls kissing .
+Ground truth: A girl in a blue shirt is smiling with another girl .
+
+test_00115.png
+Generated: This image shows a young girl wearing a helmet and a red shirt .
+Ground truth: A young girl has on rollerblades and looks ready to give it a try .
+
+test_00116.png
+Generated: This image shows a group of people on a boat .
+Ground truth: A boat sailing past the rising sun .
+
+test_00117.png
+Generated: This image shows a man with a beard and a white shirt and a man with a beard and a black shirt .
+Ground truth: A bearded man and a bald man carrying prizes at a carnival .
+
+test_00118.png
+Generated: This image shows a dog jumping up to get something in a kitchen .
+Ground truth: A small , white dog is in the kitchen jumping in front of the counter .
+
+test_00119.png
+Generated: This image shows a dog playing in a creek .
+Ground truth: A brown dog is walking in the river with a yellow ring in its mouth .
+
+test_00120.png
+Generated: This image shows a person in a red and white vehicle .
+Ground truth: A couple of people are riding ATV 's on a dirt track .
+
+test_00121.png
+Generated: This image shows a man in a white shirt and a woman in a black shirt standing in front of a store .
+Ground truth: A group of people are standing in front of some stores .
+
+test_00122.png
+Generated: This image shows a young girl with a blue headband and a blue shirt .
+Ground truth: A girl prepares herself for the swim meet .
+
+test_00123.png
+Generated: This image shows a boy wearing a blue swimsuit and a yellow swim cap .
+Ground truth: A young boy splashes in the pool .
+
+test_00124.png
+Generated: This image shows a man standing on a beach with a wave crashing over him .
+Ground truth: A longhaired man surfing a large wave .
+
+test_00125.png
+Generated: This image shows a man standing on a concrete platform .
+Ground truth: A brown and white dog walking on concrete debris with a gravel pile in the background .
+
+test_00126.png
+Generated: This image shows a group of people in the snow .
+Ground truth: A family of 7 poses in the snow
+
+test_00127.png
+Generated: This image shows a woman in a white shirt and blouse standing in front of a food stand .
+Ground truth: A black guy in a apron grilling cornstalks .
+
+test_00128.png
+Generated: This image shows a woman and a man sitting on a bench .
+Ground truth: Two elderly females sitting on a white bench amongst trees .
+
+test_00129.png
+Generated: This image shows a man walking through a large field of grass .
+Ground truth: There are two people with backpacks walking on the side of a grassy hill .
+
+test_00130.png
+Generated: This image shows a woman in a blue dress and a man in a blue shirt .
+Ground truth: A girl in an orange tank top stands outside a cafe .
+
+test_00131.png
+Generated: This image shows a child in a snowsuit and a snowboarder .
+Ground truth: A little girl in a green coat and a boy holding a red sled walk in the snow .
+
+test_00132.png
+Generated: This image shows a group of people skateboarding on a street .
+Ground truth: Boy skating across a metal rail .
+
+test_00133.png
+Generated: This image shows two men in red and white uniforms playing hockey .
+Ground truth: Lacrosse players struggling for control of the ball .
+
+test_00134.png
+Generated: This image shows a dog running in a city street .
+Ground truth: A dog pees on the side of a fountain , another dog sniffs the wall , and one is being walked .
+
+test_00135.png
+Generated: This image shows a man and a dog playing in the surf .
+Ground truth: A man holds a ball in the air for a brown dog to catch on the beach .
+
+test_00136.png
+Generated: This image shows a man standing on a rock .
+Ground truth: a climber wearing a red headband is pulling himself up some grey rocks high above some green foliage .
+
+test_00137.png
+Generated: This image shows a child wearing a red coat and snow-covered street .
+Ground truth: A child in a red hat and scarf walking down a snow covered street .
+
+test_00138.png
+Generated: This image shows a young boy in a blue shirt and blue shorts walking in the ocean .
+Ground truth: A child in a lake .
+
+test_00139.png
+Generated: This image shows a dog running through a field of grass .
+Ground truth: A beige and white dog is running quickly across the grass .
+
+test_00140.png
+Generated: This image shows a dog running through a field .
+Ground truth: A black dog with brown markings wearing a red vest trots down a path .
+
+test_00141.png
+Generated: This image shows a dog in a dog park .
+Ground truth: A black and white dog is playing with a golf ball in the sand .
+
+test_00142.png
+Generated: This image shows a man standing on a rock with a backpack .
+Ground truth: A girl in a bikini and sneakers makes her way out of the water and onto the rocks .
+
+test_00143.png
+Generated: This image shows a dog and a dog with a white and brown dog .
+Ground truth: A black and brown dog is playing with a brown and white dog .
+
+test_00144.png
+Generated: This image shows a dog running on the beach with a ball in its mouth .
+Ground truth: A dog gets ready to catch a yellow ball while standing in the sand .
+
+test_00145.png
+Generated: This image shows a group of children standing in front of a sign that says "Boys and Girls".
+Ground truth: a class holds up their certificates .
+
+test_00146.png
+Generated: This image shows a group of people sitting in a pool .
+Ground truth: A family sits on a bench in front of a pool .
+
+test_00147.png
+Generated: This image shows a person skiing in the snow .
+Ground truth: A man snowboarding down a mountain covered with snow .
+
+test_00148.png
+Generated: This image shows a group of people standing on a sidewalk .
+Ground truth: A boy doing a skateboard trick off of a flight of stairs while people watch .
+
+test_00149.png
+Generated: This image shows a hiker in a blue shirt and blue jeans .
+Ground truth: A hiker is climbing up a very steep mountain .
+
+test_00150.png
+Generated: This image shows a motorcycle rider in a red helmet and a red tire .
+Ground truth: A racing motorcycle rider has fallen off his bike and is sliding on the ground while another rider is driving behind .
+
+test_00151.png
+Generated: This image shows a man in a black shirt and blue shorts doing a handstand on a concrete wall .
+Ground truth: A military uniformed man performing a takedown maneuver on a similarly dressed man .
+
+test_00152.png
+Generated: This image shows a dog running through a field of grass .
+Ground truth: A brown dog jumps high in the grass .
+
+test_00153.png
+Generated: This image shows a boy in a red shirt and a yellow shirt .
+Ground truth: A boy waves around a sparkler .
+
+test_00154.png
+Generated: This image shows a black dog jumping over a barrier .
+Ground truth: A black and white dog is going through an obstacle course .
+
+test_00155.png
+Generated: This image shows a dog running through the snow .
+Ground truth: A dog is jumping through the air in an open , snow covered field .
+
+test_00156.png
+Generated: This image shows a man wearing a yellow and black costume .
+Ground truth: A football fan showing his devotion by painting his face .
+
+test_00157.png
+Generated: This image shows a group of people sitting outside .
+Ground truth: A creepy old man stars at a young couple as they smoke a cigarette .
+
+test_00158.png
+Generated: This image shows a child running on a beach .
+Ground truth: A baby sits on an empty beach under a big , blue sky .
+
+test_00159.png
+Generated: This image shows a man in a blue jacket and a white shirt riding a snowboard down a snowy mountain .
+Ground truth: A man is skiing down a mountain with another large mountain behind him and a river between the mountains .
+
+test_00160.png
+Generated: This image shows a football player in a red uniform running with a football .
+Ground truth: A football player in a purple uniform holds the ball while a player in red tries to tackle him .
+
+test_00161.png
+Generated: This image shows a child standing on a hill with a white dog in the background .
+Ground truth: A man in a red coat stands in front of a lighthouse surrounded by a stone wall .
+
+test_00162.png
+Generated: This image shows a group of people sitting on a boat .
+Ground truth: A boat with people and their belongings is in the water .
+
+test_00163.png
+Generated: This image shows a football game .
+Ground truth: A football player holding a football .
+
+test_00164.png
+Generated: This image shows a group of people sitting on a rock in the middle of a mountain .
+Ground truth: A group camps in a desolate area .
+
+test_00165.png
+Generated: This image shows a dog running in the grass .
+Ground truth: A brown and black dog is standing on its hind legs trying to catch something .
+
+test_00166.png
+Generated: This image shows a man and a woman sitting on a sidewalk .
+Ground truth: A girl is standing and another one is sitting by a tree
+
+test_00167.png
+Generated: This image shows a woman in a white dress and a man in a black shirt .
+Ground truth: Two bald drag queens in red dresses
+
+test_00168.png
+Generated: This image shows a group of dogs running through the snow .
+Ground truth: A dog leaps through a snowy field .
+
+test_00169.png
+Generated: This image shows a dog running on a ramp .
+Ground truth: A brown dog is running down a green and yellow obstacle .
+
+test_00170.png
+Generated: This image shows a man with a dog on a street .
+Ground truth: Four dogs are being walked by two owners .
+
+test_00171.png
+Generated: This image shows a man and a woman riding a wave .
+Ground truth: A girl stands on a surfboard which a man is standing behind and holding .
+
+test_00172.png
+Generated: This image shows a young girl in a pink shirt and blue pants playing with a yellow balloon .
+Ground truth: a girl wearing a bright pink top is spinning a colorful ribbon around her body .
+
+test_00173.png
+Generated: This image shows a dog running with a human .
+Ground truth: a brown dog is jumping up at a woman in a black coat .
+
+test_00174.png
+Generated: This image shows a dog wearing a camera .
+Ground truth: A black and white dog is chewing on a camera .
+
+test_00175.png
+Generated: This image shows a man in a red and white striped hat and a blue shirt .
+Ground truth: A man in uniform wears a helmet with chin strap and red top .
+
+test_00176.png
+Generated: This image shows a group of people standing in a crowd .
+Ground truth: A man and a woman wear mickey mouse ears at an event .
+
+test_00177.png
+Generated: This image shows a black and white dog running with a white toy .
+Ground truth: Two dark colored dogs fighting one another .
+
+test_00178.png
+Generated: This image shows a man in a black shirt and black pants standing on a metal pole .
+Ground truth: A man in a flannel shirt and black pants sits on a ship looking out through the railing .
+
+test_00179.png
+Generated: This image shows a woman in a white shirt and a man in a black shirt .
+Ground truth: A closeup of a girl from the backside playing a game on a screen .
+
+test_00180.png
+Generated: This image shows a man and a woman standing in a park .
+Ground truth: A man dressed in black is smoking a cigarette .
+
+test_00181.png
+Generated: This image shows a young girl with a yellow hairband .
+Ground truth: A blond gear with a pink shirt is blowing on a dandelion .
+
+test_00182.png
+Generated: This image shows a brown dog running through a fence .
+Ground truth: A brown dog is by a fence where a brown cow is .
+
+test_00183.png
+Generated: This image shows a dog running through the snow .
+Ground truth: Two brown dogs are running through the snow .
+
+test_00184.png
+Generated: This image shows a dog running through a field of tall grass .
+Ground truth: A German shepherd jumps at a small white dog .
+
+test_00185.png
+Generated: This image shows a group of dogs playing in the snow .
+Ground truth: Three dogs are running down a snow covered hill .
+
+test_00186.png
+Generated: This image shows a man climbing a rock face .
+Ground truth: A man in a yellow helmet climbs up a rock cliff .
+
+test_00187.png
+Generated: This image shows a young girl in a pink dress and a yellow hat .
+Ground truth: A girl in a pink coat plays in the leaves .
+
+test_00188.png
+Generated: This image shows a man in a black and white uniform with a large black and white skull on his head .
+Ground truth: A man in a uniform smiling and waving at the camera .
+
+test_00189.png
+Generated: This image shows a dog with a black and brown coat and a black and brown face .
+Ground truth: A black and brown dog rests head on lower steps of stairs .
+
+test_00190.png
+Generated: This image shows a young girl in a yellow bathing suit jumping into a pool .
+Ground truth: A girl goes down a red slide .
+
+test_00191.png
+Generated: This image shows a group of women in a pink dress .
+Ground truth: A group of girls dancing on a stage .
+
+test_00192.png
+Generated: This image shows a black and white dog running through a grassy field .
+Ground truth: A black dog is chasing a tan and white dog on a sunny day .
+
+test_00193.png
+Generated: This image shows a group of people walking on a beach .
+Ground truth: Boy and girl running along the beach .
+
+test_00194.png
+Generated: This image shows a soccer game between two teams .
+Ground truth: A goalie blocks the puck in a field hockey game .
+
+test_00195.png
+Generated: This image shows a dog wearing a red and white collar and a red and white harness .
+Ground truth: Two dogs are running around a dog track wearing muzzles .
+
+test_00196.png
+Generated: This image shows a young boy in a blue hat and blue shirt playing in the water .
+Ground truth: A baby playing in the water at a beach
+
+test_00197.png
+Generated: This image shows a group of people sitting on a bench in a park .
+Ground truth: The girl with red sunglasses and a white shirt is sitting on a bench next to the girl in the black tank top .
+
+test_00198.png
+Generated: This image shows a dog jumping over a fence .
+Ground truth: A dog goes through an obstacle course while a person looks on .
+
+test_00199.png
+Generated: This image shows a woman in a white shirt and black pants standing in front of a car .
+Ground truth: An older woman in a red vest with a group of other people at the street .
+
+test_00200.png
+Generated: This image shows a man and woman looking at each other .
+Ground truth: a man and a woman are dressed in black coats
+
+test_00201.png
+Generated: This image shows a child playing with a toy in a yard .
+Ground truth: A group of young boys fight over a bag of trash .
+
+test_00202.png
+Generated: This image shows a young boy riding a skateboard on a ramp .
+Ground truth: A boy on a skateboard is on a wall near the water and next to grass .
+
+test_00203.png
+Generated: This image shows a young girl in a red shirt and blue shorts walking down a street .
+Ground truth: A girl in a pink shirt jumps and stars at a swan in the park .
+
+test_00204.png
+Generated: This image shows a young boy eating a piece of candy .
+Ground truth: A girl in an orange shirt lights candles .
+
+test_00205.png
+Generated: This image shows a group of children sitting on a bench .
+Ground truth: A group of children sit on a bench outside and smile happily .
+
+test_00206.png
+Generated: This image shows a man in a black jacket and a white shirt walking down a street .
+Ground truth: A man in a leather jacket and leather boots .
+
+test_00207.png
+Generated: This image shows a woman with a large black and white dog .
+Ground truth: A girl holding a crocodile 's mouth closed
+
+test_00208.png
+Generated: This image shows a man in a red shirt and a red cap .
+Ground truth: a man in a white t-shirt with a red logo is wearing colored beads whilst carrying a flag past a row of spectators .
+
+test_00209.png
+Generated: This image shows a group of people standing in a room .
+Ground truth: A little boy and a woman dancing .
+
+test_00210.png
+Generated: This image shows a group of people riding bicycles in a field .
+Ground truth: A man and a woman ride scooter like vehicles
+
+test_00211.png
+Generated: This image shows a white dog running with a red Frisbee in its mouth .
+Ground truth: A Frisbee casts a shadow on the dog .
+
+test_00212.png
+Generated: This image shows a group of children in a crowd .
+Ground truth: A crowd of women and children looking at the photographer .
+
+test_00213.png
+Generated: This image shows a man and a girl in a car .
+Ground truth: A girl wearing red and blue clothing poses for a man kneeling to take her picture .
+
+test_00214.png
+Generated: This image shows a white dog running through a field of snow .
+Ground truth: A black and white dog is running across a snow covered field .
+
+test_00215.png
+Generated: This image shows a group of children in a canoe .
+Ground truth: A boy balances on something inflatable
+
+test_00216.png
+Generated: This image shows a person doing a trick on a bike .
+Ground truth: A bicyclist is attempting a trick over a jump nearby a bush and wooden building .
+
+test_00217.png
+Generated: This image shows a man in a red shirt and blue shorts doing a handstand on a metal pole .
+Ground truth: A boy hanging onto a pole .
+
+test_00218.png
+Generated: This image shows a surfer riding a wave .
+Ground truth: a lone surfboarder surfing a wave riding a white surfboard .
+
+test_00219.png
+Generated: This image shows a dog swimming in a pool .
+Ground truth: A black dog grabs a bird in its mouth in the pool .
+
+test_00220.png
+Generated: This image shows a group of people in a pool .
+Ground truth: girls in swimsuits jumping into water from behind
+
+test_00221.png
+Generated: This image shows a young boy with his mouth open and his eyes closed .
+Ground truth: A child in the bathtub with water coming out of his mouth .
+
+test_00222.png
+Generated: This image shows a white dog running in a field .
+Ground truth: A brown and white dog with a brown and black bandanna running very fast .
+
+test_00223.png
+Generated: This image shows a woman in a white shirt and a man in a blue shirt .
+Ground truth: A man carrying a bag passes by two telephone booths .
+
+test_00224.png
+Generated: This image shows a dog swimming in a pool .
+Ground truth: A brown dog is swimming and splashing in the water .
+
+test_00225.png
+Generated: This image shows a dog jumping over a hurdle .
+Ground truth: a brown and white dog jumping over blue and white poles
+
+test_00226.png
+Generated: This image shows a young man climbing a rock wall .
+Ground truth: a woman in a yellow shirt and green shorts is climbing an artificial red wall whilst wearing a safety harness .
+
+test_00227.png
+Generated: This image shows a man in a black jacket and a white shirt sitting in a public place .
+Ground truth: A man wearing a black cap and black leather coat is sitting and reading a book .
+
+test_00228.png
+Generated: This image shows a young girl in a pink dress and a young girl in a blue dress .
+Ground truth: two african toddlers dressed in pink are playing in a sparsely decorated kitchen .
+
+test_00229.png
+Generated: This image shows a man riding a bike on a sidewalk .
+Ground truth: A biker pops a wheelie along side the colorful wall .
+
+test_00230.png
+Generated: This image shows a hockey player in a red uniform and a hockey player in a blue uniform .
+Ground truth: An ice hockey player in red is challenging the player in white for the puck .
+
+test_00231.png
+Generated: This image shows a person in a red shirt and blue shorts racing a red bicycle on a busy city street .
+Ground truth: A city street is busy with people as one person walks across the crosswalk .
+
+test_00232.png
+Generated: This image shows a man in a black shirt and a black hat doing a back flip on a skateboard .
+Ground truth: A man is on the back of his friend .
+
+test_00233.png
+Generated: This image shows a woman riding a bicycle with a black helmet .
+Ground truth: A man in a wetsuit and helmet in front of a red wall .
+
+test_00234.png
+Generated: This image shows a brown and white dog running through a field of grass .
+Ground truth: A brown and white dog is playing with a toy in a field of green grass and clover .
+
+test_00235.png
+Generated: This image shows a black and white dog and a brown and white dog fighting in the grass .
+Ground truth: The three dogs are playing with each other .
+
+test_00236.png
+Generated: This image shows two dogs running through a river .
+Ground truth: A group of dogs standing in a river .
+
+test_00237.png
+Generated: This image shows a dog in the water .
+Ground truth: A black dog in the water .
+
+test_00238.png
+Generated: This image shows a dog biting a red ball .
+Ground truth: A brown dog indoors , with a large pink toy .
+
+test_00239.png
+Generated: This image shows a young girl in a pink and black outfit running on a grassy field .
+Ground truth: A girl throws a Frisbee .
+
+test_00240.png
+Generated: This image shows a man standing on a rock with his arms outstretched .
+Ground truth: A man grasps onto the rock face .
+
+test_00241.png
+Generated: This image shows a truck with a person in it .
+Ground truth: A caravan of green and red vehicles going up a mountain .
+
+test_00242.png
+Generated: This image shows a man and a woman kissing .
+Ground truth: A couple kiss each other on the lips .
+
+test_00243.png
+Generated: This image shows a black dog running on the beach .
+Ground truth: A black dog is running along the beach .
+
+test_00244.png
+Generated: This image shows a skateboarder doing a jump .
+Ground truth: A backlit skateboarder ollies over a parking cone .
+
+test_00245.png
+Generated: This image shows a snowboarder in the air .
+Ground truth: A person does a trick in the air on a skateboard .
+
+test_00246.png
+Generated: This image shows a woman in a pink shirt and a pink skirt .
+Ground truth: A black woman in a pink bikini is sitting on a towel on a lounge chair .
+
+test_00247.png
+Generated: This image shows a woman and a child in a restaurant .
+Ground truth: A woman and a baby waiting with luggage
+
+test_00248.png
+Generated: This image shows a girl in a pink shirt and a pink ball .
+Ground truth: A girl bends over backwards in the tall grass .
+
+test_00249.png
+Generated: This image shows a black dog running on a grassy field .
+Ground truth: A black dog is looking down at another black dog lying on the grass .
+
+test_00250.png
+Generated: This image shows a young boy in a red shirt and blue shorts .
+Ground truth: A boy on a playground swing strikes a medatative pose .
+
+test_00251.png
+Generated: This image shows a boy jumping on a trampoline .
+Ground truth: A child plays at a playground .
+
+test_00252.png
+Generated: This image shows a couple in a wedding dress .
+Ground truth: A bride getting ready with her bridesmaids wearing red .
+
+test_00253.png
+Generated: This image shows a snowboarder in the air .
+Ground truth: A person snowboarding down a snowy hill .
+
+test_00254.png
+Generated: This image shows a young boy and a group of geese .
+Ground truth: Two boys are walking up the beach with a bunch of ducks behind them .
+
+test_00255.png
+Generated: This image shows a man playing the guitar while a man in a blue shirt is playing the violin .
+Ground truth: A man with a double bass and a man with a mandolin play music .
+
+test_00256.png
+Generated: This image shows a group of people standing on a beach .
+Ground truth: A bunch of people at the beach .
+
+test_00257.png
+Generated: This image shows a woman in a blue shirt standing in a river .
+Ground truth: A boy in speedos , wading through a lake .
+
+test_00258.png
+Generated: This image shows a young girl in a red coat and black pants .
+Ground truth: A lady walking in red boots while wearing headphones .
+
+test_00259.png
+Generated: This image shows a group of people riding bicycles in a city .
+Ground truth: Bicyclists are standing at an intersection .
+
+test_00260.png
+Generated: This image shows a boy running with a girl .
+Ground truth: An older boy chases a laughing younger boy on the grass .
+
+test_00261.png
+Generated: This image shows a man in a black shirt and shorts , with a man in a white shirt and shorts .
+Ground truth: A crowd is watching 2 shirtless men , one in yellow pants and one in black shorts perfom .
+
+test_00262.png
+Generated: This image shows a man with a white shirt and a brown hat standing in the mountains .
+Ground truth: A man in sunglasses and a neatly trimmed beard overlooks a woody valley .
+
+test_00263.png
+Generated: This image shows a group of people standing on a balcony .
+Ground truth: A group of people are walking in single file at an exhibit .
+
+test_00264.png
+Generated: This image shows a man playing a guitar while a woman is standing behind him .
+Ground truth: A man with a white guitar plays with another in a striped shirt .
+
+test_00265.png
+Generated: This image shows a young girl in a pink shirt jumping in the air .
+Ground truth: A girl jumping in the grass .
+
+test_00266.png
+Generated: This image shows a dog running through the surf .
+Ground truth: A Beagle dog is walking on the shoreline at the beach .
+
+test_00267.png
+Generated: This image shows a group of children playing with a basketball .
+Ground truth: A boy wearing a white apron has is arms out in a communal darts and craft room whilst a boy in blue looks on .
+
+test_00268.png
+Generated: This image shows a black dog and a brown dog in a field .
+Ground truth: A black dog and a brown dog playing in tall weeds .
+
+test_00269.png
+Generated: This image shows a person wearing a red hat and a white shirt on a sidewalk .
+Ground truth: A girl is standing on a graffiti covered stone with something in her mouth .
+
+test_00270.png
+Generated: This image shows a man in a red helmet riding a snowmobile .
+Ground truth: a man in a black outfit is riding a blue snowmobile across the snow .
+
+test_00271.png
+Generated: This image shows a group of people swimming in a pool .
+Ground truth: Lots of people are playing in the river that runs through the city and in the sandy park beside it .
+
+test_00272.png
+Generated: This image shows a man wearing a red and white suit and a mask .
+Ground truth: a man dressed in a batman costume .
+
+test_00273.png
+Generated: This image shows a person climbing a rock face .
+Ground truth: A man standing on a cliff
+
+test_00274.png
+Generated: This image shows a dog jumping over a hurdle .
+Ground truth: a dog runs for the tennis ball .
+
+test_00275.png
+Generated: This image shows a young boy with a yellow fruit and a yellow fruit .
+Ground truth: A black haired girl is eating corn on the cob .
+
+test_00276.png
+Generated: This image shows a man standing on top of a cliff .
+Ground truth: A climber is climbing under an overhang high above the ground .
+
+test_00277.png
+Generated: This image shows a black dog running through the water .
+Ground truth: A black and tan Doberman dog is jumping through some water .
+
+test_00278.png
+Generated: This image shows a group of people in a park .
+Ground truth: A girl in a brown dress surrounded by children closes her eyes .
+
+test_00279.png
+Generated: This image shows a hockey player in a red helmet and white pants .
+Ground truth: A hockey player in black and white collides with another player wearing blue .
+
+test_00280.png
+Generated: This image shows a greyhound racing .
+Ground truth: A black greyhound in white and green coming up on the rear of a white greyhound in yellow and black in a race .
+
+test_00281.png
+Generated: This image shows a man in a white shirt and shorts playing basketball .
+Ground truth: Two men dressed in street clothes horse around in front of a building .
+
+test_00282.png
+Generated: This image shows a dog running on a beach .
+Ground truth: a black dog with a blue tag running on a beach
+
+test_00283.png
+Generated: This image shows a man in a black shirt and blue shorts playing football .
+Ground truth: A child gets ready to hike the ball to another .
+
+test_00284.png
+Generated: This image shows a black dog running through water .
+Ground truth: A black dog fetches a large stick out of the water .
+
+test_00285.png
+Generated: This image shows a dog running on grass .
+Ground truth: A brown dog is playing with a red toy while another brown dog bounds towards the camera .
+
+test_00286.png
+Generated: This image shows a group of dogs running in the grass .
+Ground truth: A blond dog and a black and white dog run in a dirt field .
+
+test_00287.png
+Generated: This image shows a city with a large number of people walking along a busy street .
+Ground truth: a man is standing in front of a skyscraper
+
+test_00288.png
+Generated: This image shows a woman walking down a street in a city .
+Ground truth: A girl walking alone at night on a street .
+
+test_00289.png
+Generated: This image shows a young girl playing with a yellow and blue ball .
+Ground truth: A little girl covered in paint sits in front of a painted rainbow with her hands in a bowl .
+
+test_00290.png
+Generated: This image shows a group of people in a parade .
+Ground truth: A native American band plays instruments under a tent .
+
+test_00291.png
+Generated: This image shows a black and white dog running through the grass .
+Ground truth: A black and white dog is chasing a ball on an open plane .
+
+test_00292.png
+Generated: This image shows a young boy running through a park .
+Ground truth: A child running in the grass .
+
+test_00293.png
+Generated: This image shows a group of cyclists in a race .
+Ground truth: A bike racer in a red jersey is pursued by another rider wearing blue .
+
+test_00294.png
+Generated: This image shows a crowd of people standing in a park .
+Ground truth: A busy plaza with several people having conversations .
+
+test_00295.png
+Generated: This image shows a dog with a blue collar and a yellow collar .
+Ground truth: a black dog enjoys and ice cream cone .
+
+test_00296.png
+Generated: This image shows a snowboarder jumping over a snowbank .
+Ground truth: A man is snowboarding and jumping off of a snow hill .
+
+test_00297.png
+Generated: This image shows a young boy in a blue swimsuit jumping into a pool .
+Ground truth: A boy in a red suit jumps into a pool .
+
+test_00298.png
+Generated: This image shows a dog swimming in the water .
+Ground truth: A dog is wading through deep water while holding a stick .
+
+test_00299.png
+Generated: This image shows a group of people singing and playing guitars .
+Ground truth: A group of people playing guitars and singing .
+
+test_00300.png
+Generated: This image shows a race car driver in a yellow car .
+Ground truth: A black race car spins its tires while smoke comes out .
+
+test_00301.png
+Generated: This image shows a young girl in a red dress and blue shorts jumping over a fence .
+Ground truth: a girl wearing pink shoes jumps off a swing in a park
+
+test_00302.png
+Generated: This image shows a man in a red shirt and blue shorts riding a bike over a body of water .
+Ground truth: A blonde man is wakeboarding and is jumping into the air .
+
+test_00303.png
+Generated: This image shows a man and a woman with a baby in their arms .
+Ground truth: Two elderly women with small child sucking pacifier
+
+test_00304.png
+Generated: This image shows a person in a pool wearing a white swimsuit and a yellow swim cap .
+Ground truth: A girl has just jumped into the water as evident by the air bubbles around her .
+
+test_00305.png
+Generated: This image shows a rugby team playing .
+Ground truth: Four rugby players on the ground with two standing behind them .
+
+test_00306.png
+Generated: This image shows a man with a blue shirt and a red tie .
+Ground truth: a blonde man looks at the camera .
+
+test_00307.png
+Generated: This image shows a dog running in a grassy field .
+Ground truth: A brown dog chasing a Frisbee , a barbeque in the background .
+
+test_00308.png
+Generated: This image shows a child in a blue shirt and blue pants playing with a blue bucket of water .
+Ground truth: One child running a net through a bucket of water and another child filling a bucket .
+
+test_00309.png
+Generated: This image shows a group of people sitting on a bench in front of a building .
+Ground truth: a man and a woman sit back to back on a bench in front of a building with a colorful painted door .
+
+test_00310.png
+Generated: This image shows a group of people in a martial arts class .
+Ground truth: Two Asian cheerleaders are facing forward waving silver pom-poms , whilst other cheerleaders are performing facing the other way .
+
+test_00311.png
+Generated: This image shows a young boy in a baseball uniform playing in a game .
+Ground truth: A boy holds the bat waiting for the pitch at a baseball game .
+
+test_00312.png
+Generated: This image shows a man in a white coat and a black hat .
+Ground truth: A costumed diner sits in a restaurant wearing a black outfit that covers their face .
+
+test_00313.png
+Generated: This image shows a girl in a bathing suit and a stream .
+Ground truth: A girl in water-wear has skipped a stone off an enclosed body of water .
+
+test_00314.png
+Generated: This image shows a young girl in a red coat and hat .
+Ground truth: A boy carrying a chunk of snow .
+
+test_00315.png
+Generated: This image shows a mountain biker in the woods .
+Ground truth: A dirt biker rounding a bend on a downhill course .
+
+test_00316.png
+Generated: This image shows a group of children running on a beach .
+Ground truth: Three children are playing soccer in the sand .
+
+test_00317.png
+Generated: This image shows a woman with a dog in a window .
+Ground truth: A boy being swarmed by pigeons , marble building in the background .
+
+test_00318.png
+Generated: This image shows a group of people on a boat .
+Ground truth: Four people are walking on a bridge .
+
+test_00319.png
+Generated: This image shows a man jumping into the water .
+Ground truth: A girl dives into the water while another girl watches her .
+
+test_00320.png
+Generated: This image shows a group of women in a white shirt and a white blouse .
+Ground truth: A group of girls are smiling while posing for a picture .
+
+test_00321.png
+Generated: This image shows a young girl in a white shirt and blue jeans standing in a field .
+Ground truth: A boy in a yellow polo standing in tall grass
+
+test_00322.png
+Generated: This image shows a dog in a room with a white doghouse .
+Ground truth: A dog carries a newspaper through a kitchen .
+
+test_00323.png
+Generated: This image shows a group of children playing with a toy .
+Ground truth: A group of children playing in a yard , a man in the background .
+
+test_00324.png
+Generated: This image shows a dog and a small dog on a leash .
+Ground truth: A brown dog is being attacked by two other dogs .
+
+test_00325.png
+Generated: This image shows a man in a red helmet riding a bike .
+Ground truth: A bicyclist performing a trick in midair .
+
+test_00326.png
+Generated: This image shows a young boy in a blue shirt and blue shorts standing in a blue pool .
+Ground truth: A boy enjoys puddle jumping on the big yellow dot .
+
+test_00327.png
+Generated: This image shows a group of people in a kayak .
+Ground truth: two people are dragging a yellow raft into a river .
+
+test_00328.png
+Generated: This image shows a dog running on a log .
+Ground truth: A brown dog is leaping over a fallen tree in the woods .
+
+test_00329.png
+Generated: This image shows a man walking on a dirt path .
+Ground truth: A person jogging on a sidewalk .
+
+test_00330.png
+Generated: This image shows a young girl in a blue shirt and blue jeans .
+Ground truth: A girl smiles while riding on the back of a cart in a grocery store .
+
+test_00331.png
+Generated: This image shows a brown dog running through a field .
+Ground truth: two brown dogs one with a stick in its mouth
+
+test_00332.png
+Generated: This image shows a dog jumping over a barrier .
+Ground truth: A black and white dog leaping through the air as two people watch in the background .
+
+test_00333.png
+Generated: This image shows a young boy in a black and white uniform playing baseball .
+Ground truth: A boy in shorts stands , arms outstreched , on a roadway .
+
+test_00334.png
+Generated: This image shows a man in a blue wetsuit riding a wave .
+Ground truth: A man with the Monster logo shirt is surfing .
+
+test_00335.png
+Generated: This image shows a group of people in a crowd .
+Ground truth: A couple in the front are dancing among a group of people .
+
+test_00336.png
+Generated: This image shows a man with a camera in his hand .
+Ground truth: A man gets ready to take a picture .
+
+test_00337.png
+Generated: This image shows a man in a red helmet riding a dirt bike .
+Ground truth: A guy riding a bike through mud and water .
+
+test_00338.png
+Generated: This image shows a man in a white jacket and a black hat .
+Ground truth: A man sits by a red building while smoking .
+
+test_00339.png
+Generated: This image shows a soccer player in a red shirt and blue shorts .
+Ground truth: A boy dribbles a soccer ball in a grass field next to a parking lot .
+
+test_00340.png
+Generated: This image shows a young girl with a hat and a blue shirt .
+Ground truth: a girl and two boys dressed up for halloween .
+
+test_00341.png
+Generated: This image shows a woman sitting on a tree stump .
+Ground truth: A girl is sitting on a log in the middle of some trees .
+
+test_00342.png
+Generated: This image shows a dog and a cat playing with a stick .
+Ground truth: A black dog bites a white dog on the grass .
+
+test_00343.png
+Generated: This image shows a basketball player in a uniform .
+Ground truth: A basketball player in white leaps up at the net .
+
+test_00344.png
+Generated: This image shows a group of people watching a car race .
+Ground truth: A blue race car is coming around a corner .
+
+test_00345.png
+Generated: This image shows a young girl in a pink dress standing on a wooden fence .
+Ground truth: A girl is a blue and purple dress is hanging on a railing near a street while holding candy .
+
+test_00346.png
+Generated: This image shows a skateboarder performing a trick on a ramp .
+Ground truth: A biker does a trick on a ramp .
+
+test_00347.png
+Generated: This image shows a young boy in a bathing suit jumping into a fountain .
+Ground truth: A child in a bathing suit plays in a sprinkler .
+
+test_00348.png
+Generated: This image shows a man in a black jacket and a woman in a white shirt walking down a city street .
+Ground truth: A man in a yellow shirt walks past a tree on the sidewalk .
+
+test_00349.png
+Generated: This image shows a train station in a city .
+Ground truth: A subway train with lights on is at the station .
+
+test_00350.png
+Generated: This image shows a soccer player in red and white jerseys playing a game .
+Ground truth: A man in a purple jersey is falling down while chasing a player in a green jersey playing soccer
+
+test_00351.png
+Generated: This image shows a man riding a bike on a sidewalk .
+Ground truth: A man helping a boy ride a bicycle .
+
+test_00352.png
+Generated: This image shows a man in a red shirt and a woman in a blue shirt .
+Ground truth: A father and son are flying a red kite .
+
+test_00353.png
+Generated: This image shows a young girl in a red shirt and blue shorts jumping on an inflatable playground .
+Ground truth: A girl with arms raised in sliding down a red and white slide .
+
+test_00354.png
+Generated: This image shows a child in a red shirt and blue shorts being pulled by a red and blue toy wagon .
+Ground truth: One boy rides a tricycle while another walks beside him .
+
+test_00355.png
+Generated: This image shows a man and a kayak in the water .
+Ground truth: A man wearing a orange vest is canoeing in the blue water .
+
+test_00356.png
+Generated: This image shows a girl in a red shirt and a man in a blue shirt .
+Ground truth: A little girl in a blue shirt is pointing at the water on the beach .
+
+test_00357.png
+Generated: This image shows a man and a dog playing in the water .
+Ground truth: A man kneels on a dock while a dog jumps in the water next to him .
+
+test_00358.png
+Generated: This image shows a man riding a horse in a race .
+Ground truth: A brown horse with a rider sitting on him is jumping over a blue barrier
+
+test_00359.png
+Generated: This image shows a dog running through a yard with a small dog in the background .
+Ground truth: A brown and white dog standing next to a smaller brown and white dog in front of a fence .
+
+test_00360.png
+Generated: This image shows a young boy in a red shirt and blue pants .
+Ground truth: A girl runs past a large model of a heart .
+
+test_00361.png
+Generated: This image shows a man in a blue shirt and a brown shirt running through a field of grass .
+Ground truth: A fisherman in a field near a lake .
+
+test_00362.png
+Generated: This image shows a man wearing a black hat and sunglasses .
+Ground truth: A man in a baseball hat and sunglasses watching an event in a crowd .
+
+test_00363.png
+Generated: This image shows a skateboarder doing a trick on a ramp .
+Ground truth: A boy is on a ramp with his hands down and his feet up on a skateboard .
+
+test_00364.png
+Generated: This image shows a man sitting on a rail .
+Ground truth: A couple of people sit in chairs in a waiting room lit in sunlight .
+
+test_00365.png
+Generated: This image shows a dog running with a red toy in its mouth .
+Ground truth: A black and white dog has a red toy in his mouth and is jumping .
+
+test_00366.png
+Generated: This image shows a girl and a boy with a girl in the background .
+Ground truth: A boy and girl are placing a red blindfold over a woman 's eyes .
+
+test_00367.png
+Generated: This image shows a black and white dog running through a field of grass .
+Ground truth: A black and white dog is carrying a blue ball through the yard of a house in a tropical location .
+
+test_00368.png
+Generated: This image shows a person running on a rocky path .
+Ground truth: A woman in yellow , jogging .
+
+test_00369.png
+Generated: This image shows a black dog running through the snow .
+Ground truth: Two black dogs fetching toys in the snow .
+
+test_00370.png
+Generated: This image shows a man standing on top of a cliff .
+Ground truth: A male freestyle rock-climber perches half-way up a pitted stone face .
+
+test_00371.png
+Generated: This image shows a dog and a dog with a black and white dog .
+Ground truth: A man and a woman watch two dogs .
+
+test_00372.png
+Generated: This image shows a person wearing a blue and white striped shirt and a blue and white striped hat .
+Ground truth: A closeup of an elderly man wearing glasses .
+
+test_00373.png
+Generated: This image shows a racehorse in the middle of a race .
+Ground truth: Dogs in a race .
+
+test_00374.png
+Generated: This image shows a horse pulling a sled .
+Ground truth: an african man is being dragged though wet mud by two cows whilst other people watch .
+
+test_00375.png
+Generated: This image shows a basketball player in a uniform .
+Ground truth: A boy dunks a basketball .
+
+test_00376.png
+Generated: This image shows a brown dog running through a field .
+Ground truth: A dog is running in a field .
+
+test_00377.png
+Generated: This image shows a brown dog running through a field .
+Ground truth: A brown dog on the grass next to a pond .
+
+test_00378.png
+Generated: This image shows a truck with a man in it .
+Ground truth: A four wheel drive car is navigating along a rocky off road trail .
+
+test_00379.png
+Generated: This image shows a group of people standing in front of a building .
+Ground truth: A group of five men in uniform are posing for the camera .
+
+test_00380.png
+Generated: This image shows a group of people sitting at a restaurant .
+Ground truth: A group of people are listening to a man with a moustache speak into a microphone .
+
+test_00381.png
+Generated: This image shows a man and a woman in the water .
+Ground truth: A lady and her daughter jump in a swimming pool .
+
+test_00382.png
+Generated: This image shows a fire truck in flames .
+Ground truth: A man is engulfed in flames while two movie crewmen supervise .
+
+test_00383.png
+Generated: This image shows a child with a red shirt and brown hair .
+Ground truth: A blond child is drinking from a garden hose .
+
+test_00384.png
+Generated: This image shows a man and a black dog playing fetch in the ocean .
+Ground truth: A man in a brown shirt and dark shorts plays on the beach with his two black dogs .
+
+test_00385.png
+Generated: This image shows a man in a blue jacket and a sheep .
+Ground truth: A man carries dead birds while walking down a hill .
+
+test_00386.png
+Generated: This image shows a boy in a yellow jacket and blue shirt looking at a yellow and blue door .
+Ground truth: A man in a neon-colored vest holding up a section of wood
+
+test_00387.png
+Generated: This image shows a surfer in the ocean .
+Ground truth: A man hangs onto something as he is being pulled through the water .
+
+test_00388.png
+Generated: This image shows a group of people running in a race .
+Ground truth: A crowd of men wearing paper numbers on their shirts run in a race .
+
+test_00389.png
+Generated: This image shows a group of people in the mountains .
+Ground truth: A man is standing on snow with trees and mountains all around him .
+
+test_00390.png
+Generated: This image shows a boy standing in front of a wall .
+Ground truth: a boy in a blue shirt is walking along a tan and blue wall
+
+test_00391.png
+Generated: This image shows a skateboarder doing a trick on a ramp .
+Ground truth: A person jumping high above their skateboard on the street .
+
+test_00392.png
+Generated: This image shows a man in a white shirt and black pants doing a dance on a balcony .
+Ground truth: Two guys running along a wall .
+
+test_00393.png
+Generated: This image shows a group of children in a group of trees .
+Ground truth: A group of kids look out of a fence .
+
+test_00394.png
+Generated: This image shows a young girl swinging on a swing .
+Ground truth: A closeup of a little girl on a swing .
+
+test_00395.png
+Generated: This image shows a surfer riding a wave .
+Ground truth: A blond girl rides the waves .
+
+test_00396.png
+Generated: This image shows a group of people sitting in a room with a woman in a blue shirt and a man in a black shirt .
+Ground truth: A crowd of people socializing at night .
+
+test_00397.png
+Generated: This image shows a group of people standing on a train .
+Ground truth: Several young adults posing dramatically on a subway car .
+
+test_00398.png
+Generated: This image shows a group of people jumping into a pool .
+Ground truth: A girl in a swimming pool playing badminton while a lady watches .
+
+test_00399.png
+Generated: This image shows a snowboarder in the air on a snowboard .
+Ground truth: A downhill slalom skier leaning through a turn .
+
+test_00400.png
+Generated: This image shows a car driving through a city with a sign that says "A car is coming through the city."
+Ground truth: A busy city street with neon lights , lots of people and traffic .
+
+test_00401.png
+Generated: This image shows a young girl in a pink dress standing on a sidewalk .
+Ground truth: A little girl runs in the park , looking at somthing out of frame .
+
+test_00402.png
+Generated: This image shows a man in a red shirt and blue shorts doing a trick on a skateboard .
+Ground truth: A man eyes the ground as he comes in for a landing from parasailing .
+
+test_00403.png
+Generated: This image shows a man climbing a rock face .
+Ground truth: A man in a white helmet clings to a sheer rock face
+
+test_00404.png
+Generated: This image shows a child in a red shirt and a blue ball on the floor .
+Ground truth: A boy kicks a ball in his living room .
+
+test_00405.png
+Generated: This image shows a dog running through a field .
+Ground truth: A brown dog starring at a soccer ball .
+
+test_00406.png
+Generated: This image shows a football player in a red uniform trying to catch a football .
+Ground truth: A football player in possession of the ball gets tackled by a football player on the opposing team .
+
+test_00407.png
+Generated: This image shows a brown dog jumping over a hurdle .
+Ground truth: A brown dog jumping over an obstacle hurdle .
+
+test_00408.png
+Generated: This image shows a group of people skiing in the snow .
+Ground truth: Three people are standing on a hill that is partly covered in snow .
+
+test_00409.png
+Generated: This image shows a man in a white shirt and a black shirt .
+Ground truth: A large man at a party , with a drink in his right hand .
+
+test_00410.png
+Generated: This image shows a young boy and a young boy playing with a straw .
+Ground truth: A boy in a grey and white shirt looking at his reflection .
+
+test_00411.png
+Generated: This image shows a man jumping into a pool of water .
+Ground truth: A long haired mail is swinging his wet hair around in the ocean .
+
+test_00412.png
+Generated: This image shows a dog standing on a black and white rail .
+Ground truth: A beagle is climbing through some grey stairs .
+
+test_00413.png
+Generated: This image shows a woman in a pink bikini , with a man in a blue shirt .
+Ground truth: A colourfully dressed and painted woman working a hula hoop in a crowd .
+
+test_00414.png
+Generated: This image shows a man riding a bike over a hill .
+Ground truth: A boy wearing a helmet and no shirt , in the air on a bike .
+
+test_00415.png
+Generated: This image shows a soccer player in the middle of a soccer game .
+Ground truth: A blue and white soccer team playing against each other .
+
+test_00416.png
+Generated: This image shows a man and a dog in the snow .
+Ground truth: A woman in a red coat with a man in a white and black coat and a black dog in the snow .
+
+test_00417.png
+Generated: This image shows a man and woman in a white tank top and a black tank top .
+Ground truth: A guy and girl having their photo taken .
+
+test_00418.png
+Generated: This image shows a woman in a blue shirt and blue shorts standing on a beach .
+Ground truth: A man falling over in an ocean wave
+
+test_00419.png
+Generated: This image shows a baby in a blue and white toy .
+Ground truth: a baby is peeking his head over blue playpen .
+
+test_00420.png
+Generated: This image shows a man wearing a pink shirt and a pink headband .
+Ground truth: An Asian girl wearing a very colorful dress is carrying a plastic cup .
+
+test_00421.png
+Generated: This image shows a man in a red helmet riding a bike over a body of water .
+Ground truth: A bike rider performing a stunt on the cliffs near the water .
+
+test_00422.png
+Generated: This image shows a white dog running with a white stick in its mouth .
+Ground truth: A dog is running through a park
+
+test_00423.png
+Generated: This image shows a dog running with a toy in its mouth .
+Ground truth: A brown dog holding a foam bat aiming for a ball .
+
+test_00424.png
+Generated: This image shows a skier in a red jacket and blue pants .
+Ground truth: A guy in a red jacket is snowboarding in midair .
+
+test_00425.png
+Generated: This image shows a crowd of people running through a park .
+Ground truth: A boy surrounded by pigeons is interacting with a person who is part of a larger crowd .
+
+test_00426.png
+Generated: This image shows a dog running in the grass .
+Ground truth: A brown and white dog is running up a grassy hill .
+
+test_00427.png
+Generated: This image shows a man sitting on a bench in front of a building .
+Ground truth: A couple sits on a shaded bench with a view of trees and a large building .
+
+test_00428.png
+Generated: This image shows a man standing on a rock .
+Ground truth: A man at the top of rocks , clouds behind .
+
+test_00429.png
+Generated: This image shows a man in a yellow uniform and a man in a black uniform playing a game of basketball .
+Ground truth: A giant inflatable ball , taller than a man , is chased by two men in orange shirts .
+
+test_00430.png
+Generated: This image shows a man standing on a boat .
+Ground truth: A man is docking a boat
+
+test_00431.png
+Generated: This image shows a black and white dog running through the grass .
+Ground truth: A black and white dog is drooling whilst walking on the grass .
+
+test_00432.png
+Generated: This image shows a dog running through the grass .
+Ground truth: A dog runs through the forest with something in its mouth .
+
+test_00433.png
+Generated: This image shows a man riding a bicycle on a trail .
+Ground truth: A bike rider jumping the hill on his bicycle .
+
+test_00434.png
+Generated: This image shows a man in a red shirt and a woman in a blue shirt .
+Ground truth: A lady with sunglasses on her head and a green sweatshirt is looking off camera .
+
+test_00435.png
+Generated: This image shows a young boy in a red jacket and a red hat .
+Ground truth: a boy in a red hooded top is ice skating on an outdoor ice rink .
+
+test_00436.png
+Generated: This image shows a young man running in a race .
+Ground truth: A boy in blue shorts running on a concrete surface while holding goggles .
+
+test_00437.png
+Generated: This image shows a group of children in a tent .
+Ground truth: A black woman and two black children are sitting in a thatched tent .
+
+test_00438.png
+Generated: This image shows a group of children in a school .
+Ground truth: The girls smile at the camera .
+
+test_00439.png
+Generated: This image shows a motorcycle racer in a race .
+Ground truth: Motorcycle racers take a sharp turn .
+
+test_00440.png
+Generated: This image shows a white goose flying through the air .
+Ground truth: A swan unfurling his wings over the water with a second swan in the background .
+
+test_00441.png
+Generated: This image shows a dog running through the grass .
+Ground truth: A big black poodle running on the grass with a toy in its mouth .
+
+test_00442.png
+Generated: This image shows a boy in a blue shirt and blue shorts .
+Ground truth: A boy wearing a black and blue life vest is on a green , wooden boat looking out towards the water .
+
+test_00443.png
+Generated: This image shows a girl in a pink shirt and pink pants .
+Ground truth: A little girl dances in a room with balloons on the floor .
+
+test_00444.png
+Generated: This image shows a man in a black coat and hat with a white scarf .
+Ground truth: a man in the snow wearing a furry hat and a black jacket with a red scarf
+
+test_00445.png
+Generated: This image shows a man riding a bike on a dirt track .
+Ground truth: Dirtbikers race on a muddy track .
+
+test_00446.png
+Generated: This image shows a woman and a man standing in front of a car .
+Ground truth: two girls are standing in front of a car that is advertising Red Bull .
+
+test_00447.png
+Generated: This image shows a group of people wearing black and white masks .
+Ground truth: A crowd of people , some of which are wearing surgical masks .
+
+test_00448.png
+Generated: This image shows a black and white dog running through a field of dry grass .
+Ground truth: A black and white dog is playing with a ball that has a tear in it .
+
+test_00449.png
+Generated: This image shows a boy in a red shirt and blue shorts climbing a red and blue obstacle course .
+Ground truth: A boy is pushing another boy on the swings .
+
+test_00450.png
+Generated: This image shows a woman and a man on a bridge .
+Ground truth: A couple standing next to a fence looking at a body of water .
+
+test_00451.png
+Generated: This image shows a group of people sitting around a table .
+Ground truth: A girl in a petterned shirt is talking to a guy with a hat in a billiards room .
+
+test_00452.png
+Generated: This image shows a dog swimming in the water .
+Ground truth: A black and white dog is swimming .
+
+test_00453.png
+Generated: This image shows a crowd of people in a restaurant .
+Ground truth: A large group of asian people are eating at a restaurant .
+
+test_00454.png
+Generated: This image shows a man standing in front of a building with a sign that says "The City of Los Angeles".
+Ground truth: A man in a red coat stands outside of a store near a big column .
+
+test_00455.png
+Generated: This image shows a group of people on a sled .
+Ground truth: a group of dogs pulling a sled through the snow .
+
+test_00456.png
+Generated: This image shows a young boy in a red shirt and blue shorts being thrown into the water .
+Ground truth: A man wearing a gray swimsuit stands in the water amidst white waves .
+
+test_00457.png
+Generated: This image shows a young boy with a red shirt and a blue shirt .
+Ground truth: A young boy wearing a denim jacket sticks his tongue out .
+
+test_00458.png
+Generated: This image shows a man with a black hat and sunglasses .
+Ground truth: A man in a black t-shirt looking down as he holds a drink .
+
+test_00459.png
+Generated: This image shows a child wearing a red and white shirt and a yellow hat .
+Ground truth: A girl in a pink jacket and red hat walking near grass .
+
+test_00460.png
+Generated: This image shows a child climbing a rope bridge .
+Ground truth: A child at the top of a fake rock wall .
+
+test_00461.png
+Generated: This image shows a football player in a red uniform playing with a ball .
+Ground truth: A man helps up a woman who has fallen after kicking a soccer ball .
+
+test_00462.png
+Generated: This image shows a man riding a bike through a forest .
+Ground truth: A man rides a bike on a dirt path .
+
+test_00463.png
+Generated: This image shows two girls in a blue and white surfboard .
+Ground truth: The two girls are in the water and one has a white shirt on .
+
+test_00464.png
+Generated: This image shows a person riding a bicycle on a dirt road .
+Ground truth: A bicycler is riding a bike at a racing event .
+
+test_00465.png
+Generated: This image shows a girl swimming in a pool .
+Ground truth: a girl is swimming in a clear water in a blue pool .
+
+test_00466.png
+Generated: This image shows a man and a woman on a beach .
+Ground truth: Two dogs racing across the water toward a beach .
+
+test_00467.png
+Generated: This image shows a man in a red vest and a blue truck .
+Ground truth: Two girls are riding a 4 wheeler .
+
+test_00468.png
+Generated: This image shows a soccer player in a uniform , kicking a ball .
+Ground truth: A soccer player kicking toward the ball with another player on the soaked ground .
+
+test_00469.png
+Generated: This image shows a rugby player in a red shirt and a rugby player in a blue shirt .
+Ground truth: A rugby player tackling another .
+
+test_00470.png
+Generated: This image shows a man in a black shirt and jeans walking along a concrete wall .
+Ground truth: A man does yard work .
+
+test_00471.png
+Generated: This image shows a man in a white shirt and blue pants standing on a mountain .
+Ground truth: A group of people stand in front of a rock formation .
+
+test_00472.png
+Generated: This image shows a young Asian woman in a red shirt and a black dress .
+Ground truth: One girl is helping another to take a picture with a digital camera .
+
+test_00473.png
+Generated: This image shows a group of men playing soccer in a field .
+Ground truth: People playing cricket in the park , pine trees in the back .
+
+test_00474.png
+Generated: This image shows a dog running through a field .
+Ground truth: A little dog is attempting to catch a red ball .
+
+test_00475.png
+Generated: This image shows a man in a red helmet riding a bike .
+Ground truth: A dirt bike rider rides off of a jump .
+
+test_00476.png
+Generated: This image shows a black dog running through the grass .
+Ground truth: A black dog in a grassy field fetching a colourful toy .
+
+test_00477.png
+Generated: This image shows a man in a blue shirt and a brown jacket .
+Ground truth: A man drinking and reading the paper .
+
+test_00478.png
+Generated: This image shows a tennis player in a white shirt and black shorts .
+Ground truth: A tennis player about to hit the ball .
+
+test_00479.png
+Generated: This image shows a black and white dog running through the water .
+Ground truth: A black dog is walking along the side of a pool .
+
+test_00480.png
+Generated: This image shows a girl in a blue swimsuit and a blue ball on a blue pool .
+Ground truth: A child is sliding into a small pool .
+
+test_00481.png
+Generated: This image shows a young girl in a blue shirt and pink shorts .
+Ground truth: A baby laughs .
+
+test_00482.png
+Generated: This image shows a group of people standing in a crowd .
+Ground truth: A group of Asian girls are standing together .
+
+test_00483.png
+Generated: This image shows a man and a woman in a bar .
+Ground truth: A man and are playing cards but the man has thrown some cards in the air
+
+test_00484.png
+Generated: This image shows a man in a black jacket and blue shirt walking down a sidewalk .
+Ground truth: a man in a black shirt is rollerblading past a bench in the city .
+
+test_00485.png
+Generated: This image shows two dogs playing with a ball on the beach .
+Ground truth: two black and white dogs on the sandy beach fighting over a long stick
+
+test_00486.png
+Generated: This image shows a boy in a blue swimsuit jumping into a pool .
+Ground truth: A boy stands in a pool outside .
+
+test_00487.png
+Generated: This image shows a man wearing a black shirt and a black hat playing the guitar .
+Ground truth: a man dressed in purple playing guitar
+
+test_00488.png
+Generated: This image shows a couple in a red and white striped shirt and blue jeans , holding a red and white striped toy .
+Ground truth: A woman and a girl sitting on a front lawn
+
+test_00489.png
+Generated: This image shows a young girl with a blue shirt and a pink dress .
+Ground truth: A blonde boy and a girl in pajamas with make-up .
+
+test_00490.png
+Generated: This image shows a girl in a white dress and a girl in a pink dress .
+Ground truth: A girl in a pink dress in midair over a large yellow object .
+
+test_00491.png
+Generated: This image shows a man and a woman in a room with a table and chairs .
+Ground truth: One lady is drinking something while the other is preoccupied .
+
+test_00492.png
+Generated: This image shows a man in a black hat and blue shirt climbing a rock .
+Ground truth: A man climbing a rock face
+
+test_00493.png
+Generated: This image shows a bicyclist riding down a road .
+Ground truth: A cyclist wearing a red helmet is riding on the pavement .
+
+test_00494.png
+Generated: This image shows a dog running with a ball in its mouth .
+Ground truth: Two dogs and a truck .
+
+test_00495.png
+Generated: This image shows a basketball game .
+Ground truth: A basketball player from one team making a rebound while three players oppose him .
+
+test_00496.png
+Generated: This image shows a girl in a red swimsuit and a red umbrella .
+Ground truth: A girl floating wearing a life vest .
+
+test_00497.png
+Generated: This image shows a dog and a cat .
+Ground truth: A black dog and small white and black dog look up at a kitchen countertop .
+
+test_00498.png
+Generated: This image shows a woman in a red dress and a man in a black suit .
+Ground truth: An upset woman with her makeup streaming down her face from her tears .
+
+test_00499.png
+Generated: This image shows a group of people in a car .
+Ground truth: A couple and an infant , being held by the male , sitting next to a pond with a near by stroller .
+
+test_00500.png
+Generated: This image shows a dog jumping over a fence .
+Ground truth: A man and a boy watch a dog leap to catch a ball .
+
+test_00501.png
+Generated: This image shows a man with a hat and a beard .
+Ground truth: A bearded man wearing a denim jacket and a hat sits on a park bench
+
+test_00502.png
+Generated: This image shows a dog in a kitchen .
+Ground truth: A black dog sits by two bowls near some tile steps .
+
+test_00503.png
+Generated: This image shows two children playing on a trampoline .
+Ground truth: A boy in a red shirt and a boy in a yellow shirt are jumping on a trampoline outside .
+
+test_00504.png
+Generated: This image shows a wrestler in a red uniform jumping over a pole .
+Ground truth: Two blonde female wrestlers in the ring .
+
+test_00505.png
+Generated: This image shows a dog running through a field .
+Ground truth: A dog runs through the woods .
+
+test_00506.png
+Generated: This image shows a man in a white shirt jumping in the air while others watch .
+Ground truth: A person in a green shirt jumping on a lawn near several other crowds of people .
+
+test_00507.png
+Generated: This image shows a dog jumping over a hurdle .
+Ground truth: a black dog is jumping over a white fence whilst taking part in a dog show .
+
+test_00508.png
+Generated: This image shows a hiker in a red shirt and blue jeans .
+Ground truth: A backpacker in the mountains wearing an american flag .
+
+test_00509.png
+Generated: This image shows a man in a red helmet and a red motorcycle .
+Ground truth: A biker rides a motorcycle on a racetrack
+
+test_00510.png
+Generated: This image shows a man and a woman sitting on a couch .
+Ground truth: A couple sits on a floral couch while an older woman in the background smiles .
+
+test_00511.png
+Generated: This image shows a group of people riding horses in a race .
+Ground truth: A professional horse race
+
+test_00512.png
+Generated: This image shows a child swinging on a playground .
+Ground truth: a boy swings on the swing .
+
+test_00513.png
+Generated: This image shows a person doing a trick on a bike in the woods .
+Ground truth: A boy on a bicycle in midair after going off of a wooden ramp .
+
+test_00514.png
+Generated: This image shows two girls in a park .
+Ground truth: Three girls fell on top of one another and are laughing histerically .
+
+test_00515.png
+Generated: This image shows a brown dog and a brown dog with a ball in their mouths .
+Ground truth: Two brown dogs play rough on green grass .
+
+test_00516.png
+Generated: This image shows a group of children in a field .
+Ground truth: A woman , a little boy , and a tiny baby are standing in front of a cow statue .
+
+test_00517.png
+Generated: This image shows a boy riding a skateboard on a ramp .
+Ground truth: A boy skateboards up a concrete ramp .
+
+test_00518.png
+Generated: This image shows a boy in a red shirt and blue shorts doing a trick on a trampoline .
+Ground truth: A boy does a flip while another boy stands on the Matt .
+
+test_00519.png
+Generated: This image shows a black and white dog running through the grass .
+Ground truth: a black puppy jumping on the back of a white puppy
+
+test_00520.png
+Generated: This image shows a man in a white shirt and blue jeans standing on a dock in a lake .
+Ground truth: A man in a cowboy hat sits on bleachers near the water and plays guitar .
+
+test_00521.png
+Generated: This image shows a child holding a red ball .
+Ground truth: a boy in a grey hat is carrying a soccer ball by a reddish colored wall .
+
+test_00522.png
+Generated: This image shows a woman in a black dress and a man in a white shirt walking on a path .
+Ground truth: A man affectionately kissing a woman along a path
+
+test_00523.png
+Generated: This image shows a brown dog running through a field of grass .
+Ground truth: A large yellow dog and a small white dog in the grass .
+
+test_00524.png
+Generated: This image shows a group of people standing in front of a woman .
+Ground truth: A woman is looking at dressed , headless mannequins in a store display .
+
+test_00525.png
+Generated: This image shows a dog swimming in a river .
+Ground truth: A brown dog fetching a ball out of the water .
+
+test_00526.png
+Generated: This image shows a young boy in a red shirt and blue shorts sliding down a red slide .
+Ground truth: A child bouncing in a play and bounce .
+
+test_00527.png
+Generated: This image shows a dog running in the grass .
+Ground truth: A brown and white dog plays in the yard by a house .
+
+test_00528.png
+Generated: This image shows a woman in a red shirt and black pants with a large red and black headband .
+Ground truth: An attractive woman holds a halo above her head .
+
+test_00529.png
+Generated: This image shows a dog laying on a bed with a book in its mouth .
+Ground truth: A border collie jumps over a bed with a tennis ball in its mouth .
+
+test_00530.png
+Generated: This image shows a group of people playing soccer in a park .
+Ground truth: A group of children play in the grass at a park .
+
+test_00531.png
+Generated: This image shows a person jumping over a set of stairs .
+Ground truth: A bicycle stunt jump is being perforced in a city .
+
+test_00532.png
+Generated: This image shows a dog jumping over a barrier .
+Ground truth: A black and white dog jumping over a red and white bar .
+
+test_00533.png
+Generated: This image shows a small dog and a small child .
+Ground truth: A baby lays next to a big brown dog on a palid bed cover .
+
+test_00534.png
+Generated: This image shows a woman in a black and white uniform running on an ice rink .
+Ground truth: A female runner in a race
+
+test_00535.png
+Generated: This image shows two people walking down a street .
+Ground truth: A couple walking and holding hands .
+
+test_00536.png
+Generated: This image shows a brown dog running on the beach .
+Ground truth: A brown dog is shaking his head while standing on sand .
+
+test_00537.png
+Generated: This image shows a dog chasing a ball .
+Ground truth: A dog is jumping playing with a ball that has broken .
+
+test_00538.png
+Generated: This image shows a girl and a girl with a flower in their hair .
+Ground truth: A woman and a young girl pose and smile for a photo .
+
+test_00539.png
+Generated: This image shows a man climbing a rock wall .
+Ground truth: A man climbing a rock-face .
+
+test_00540.png
+Generated: This image shows a man and a woman sitting on a balcony .
+Ground truth: a couple cuddling in a corner on a set of stares
+
+test_00541.png
+Generated: This image shows a young boy in a red shirt and blue shorts with a red toy gun .
+Ground truth: A child smiling in a park
+
+test_00542.png
+Generated: This image shows a group of people riding bicycles in a race .
+Ground truth: A boy riding a unicycle in the park .
+
+test_00543.png
+Generated: This image shows a dog sitting on a blue and white car seat .
+Ground truth: A calico cat raising its paws towards a dog with an open mouth
+
+test_00544.png
+Generated: This image shows a black and white dog with a red toy in its mouth .
+Ground truth: A black and a white dog are both going for a blue soccer ball .
+
+test_00545.png
+Generated: This image shows a basketball player in a red uniform running with the ball .
+Ground truth: A bald man dribbles a basketball while wearing a Miami jersey .
+
+test_00546.png
+Generated: This image shows a car in a city street .
+Ground truth: A person in red is opening a red car 's door in a parking area .
+
+test_00547.png
+Generated: This image shows a dog with a stick in its mouth .
+Ground truth: A brown dog holding a buoy in its mouth in the water
+
+test_00548.png
+Generated: This image shows a young girl with a black hat and a white shirt .
+Ground truth: A group of girls are riding on a roller coaster .
+
+test_00549.png
+Generated: This image shows a group of dogs playing together .
+Ground truth: A brown and white dog is jumping high and catching a blue ball .
+
+test_00550.png
+Generated: This image shows a man in a red jacket and a white hat walking on a snow covered hill .
+Ground truth: A man climb up a snowy mountain .
+
+test_00551.png
+Generated: This image shows a dog playing with a ball .
+Ground truth: A brown dog is running in the sand .
+
+test_00552.png
+Generated: This image shows a woman with a blue shirt and a black hat .
+Ground truth: A blonde lady with sunglasses smiles .
+
+test_00553.png
+Generated: This image shows a man and a boat in the water .
+Ground truth: A blue and white sailboat sits by a dock .
+
+test_00554.png
+Generated: This image shows a child playing with a toy .
+Ground truth: A little boy is putting some cutout letters on the wall .
+
+test_00555.png
+Generated: This image shows a man in a red jacket and black hat riding a snowboard down a snowy hill .
+Ground truth: A cross-country skier following a path .
+
+test_00556.png
+Generated: This image shows a man in a red shirt and blue pants , holding a baseball bat .
+Ground truth: A child holding up a sign with a skull and crossbones .
+
+test_00557.png
+Generated: This image shows two young girls walking down a street .
+Ground truth: A couple walking down the street .
+
+test_00558.png
+Generated: This image shows a young boy in a uniform playing baseball .
+Ground truth: A girl playing softball slides into home plate
+
+test_00559.png
+Generated: This image shows a group of people standing on a pier .
+Ground truth: A man attached to strings is watched by a crowd .
+
+test_00560.png
+Generated: This image shows a man and woman in a white shirt and black pants .
+Ground truth: A group of workers are posing for a picture .
+
+test_00561.png
+Generated: This image shows a group of children playing basketball in a hallway .
+Ground truth: A group of men stand in a gymnasium with a basketball .
+
+test_00562.png
+Generated: This image shows a group of people riding a bicycle .
+Ground truth: A dirt biker in red speeds on clay road while being videotaped by a man in black .
+
+test_00563.png
+Generated: This image shows a man with a red shirt and a blue shirt .
+Ground truth: A boy appears to be dancing to music in a building filled with people .
+
+test_00564.png
+Generated: This image shows a soccer team playing .
+Ground truth: A soccer player in a white shirt moves to run past a player from the opposite team .
+
+test_00565.png
+Generated: This image shows a man in a blue jacket and blue pants riding a boat .
+Ground truth: A dog in a life jacket sitting on a boat with a man in the cockpit .
+
+test_00566.png
+Generated: This image shows a dog and a yellow ball in a yard .
+Ground truth: A brightly colored bird and a small dog .
+
+test_00567.png
+Generated: This image shows two children playing with a stuffed animal .
+Ground truth: A woman and child sitting on a bench beside a wooden bear carving .
+
+test_00568.png
+Generated: This image shows a woman in a black and white outfit with a white umbrella .
+Ground truth: A girl all in black and white , and carrying an umbrella , walks down the street , as others watch .
+
+test_00569.png
+Generated: This image shows two women in a small room .
+Ground truth: a couple standing outside in the dark near some festive lights .
+
+test_00570.png
+Generated: This image shows a dog running through the water .
+Ground truth: A black and white dog running on the beach while a man stands behind it .
+
+test_00571.png
+Generated: This image shows a white dog running on a green lawn .
+Ground truth: Two dogs play in grass .
+
+test_00572.png
+Generated: This image shows a dog and a rock .
+Ground truth: A Pug dog is standing up on two legs looking over a stone wall .
+
+test_00573.png
+Generated: This image shows a man and woman in a group of men and women .
+Ground truth: A man with headphones has his mouth wide open while a woman stands next to him .
+
+test_00574.png
+Generated: This image shows a woman and a man in a group wearing colorful clothing .
+Ground truth: A blond woman poses with a person in a pink costume .
+
+test_00575.png
+Generated: This image shows a group of children playing in the sand .
+Ground truth: The children are near a large pile of sand that is next to the water .
+
+test_00576.png
+Generated: This image shows a group of men in a marching band .
+Ground truth: Four bald people are praying or meditating .
+
+test_00577.png
+Generated: This image shows a young boy in a black shirt and blue shorts .
+Ground truth: A child is using the bathroom .
+
+test_00578.png
+Generated: This image shows a child with a blue hat and a red shirt .
+Ground truth: A boy with blue face paint sucks his thumb .
+
+test_00579.png
+Generated: This image shows a young girl with a yellow headband and a yellow hat .
+Ground truth: A woman , covered in a red and blue shawl , smoking a cigarette , eyes closed .
+
+test_00580.png
+Generated: This image shows two people standing on the beach .
+Ground truth: A man and woman walking on the sand with water in the background .
+
+test_00581.png
+Generated: This image shows a child with a plastic bag in his hand .
+Ground truth: A child painting a picture .
+
+test_00582.png
+Generated: This image shows a man in a yellow jacket and blue shirt climbing a tree .
+Ground truth: A man crouched in the bare branches of a fallen tree .
+
+test_00583.png
+Generated: This image shows a woman riding a bicycle .
+Ground truth: A girl has rested her bike by a bench so that she can eat and ice cream .
+
+test_00584.png
+Generated: This image shows a dog and a large brown dog in the water .
+Ground truth: A pet dog , standing on bank is looking at another brown dog inside a pond .
+
+test_00585.png
+Generated: This image shows a boy jumping on a swing .
+Ground truth: A child swings high at a park .
+
+test_00586.png
+Generated: This image shows a man in a white shirt and blue pants .
+Ground truth: A boy is trying to blow a huge bubble using a giant metal ring .
+
+test_00587.png
+Generated: This image shows a black and white dog with a white and black dog in the background .
+Ground truth: A dog playing with a toy .
+
+test_00588.png
+Generated: This image shows a dog running through a field of snow .
+Ground truth: A dog is running through reeds towards the ocean .
+
+test_00589.png
+Generated: This image shows a dog running on a road .
+Ground truth: A brown and white dog holds a tennis ball in his mouth .
+
+test_00590.png
+Generated: This image shows a black dog and a brown dog in a river .
+Ground truth: A black dog retrieves a cloth from a streambed .
+
+test_00591.png
+Generated: This image shows a group of girls playing soccer .
+Ground truth: A group of girls playing field hockey .
+
+test_00592.png
+Generated: This image shows a young boy in a red shirt and blue pants jumping in the air .
+Ground truth: A curly-haired boy jumps up on a bed .
+
+test_00593.png
+Generated: This image shows a group of people in a park .
+Ground truth: A group of children do stretches on colored mats .
+
+test_00594.png
+Generated: This image shows a man swimming in a river .
+Ground truth: a man dives headfirst into the water .
+
+test_00595.png
+Generated: This image shows a man playing a guitar .
+Ground truth: A man in a pink shirt and white vest plays a guitar .
+
+test_00596.png
+Generated: This image shows a man in a red and white outfit with a red and white hat and a red and white scarf .
+Ground truth: A man in a bowler hat , a low cut vest and flowers waves in a parade .
+
+test_00597.png
+Generated: This image shows a man standing on a cliff .
+Ground truth: A blond person climbs a sheer rock cliff face .
+
+test_00598.png
+Generated: This image shows a group of people in a city .
+Ground truth: A car is parked in a graffiti filled street .
+
+test_00599.png
+Generated: This image shows a man climbing a mountain .
+Ground truth: Two hikers are climbing through a rocky and snowy passage in the mountains .
+

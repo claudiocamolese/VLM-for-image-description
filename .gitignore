@@ -1,0 +1,31 @@
+dataset/
+checkpoints/
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+*.egg-info/
+
+data/
+
+.requirements.txt
+
